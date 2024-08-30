@@ -1,7 +1,7 @@
 # Simple-Weather-Application
 # Output - 1
 
-![image desc](./img/Screenshot%20(99).pngScreenshot%20(99).png)
+![image desc](./img/Screenshot%20(99).png)
  
 # Output - 2
 
