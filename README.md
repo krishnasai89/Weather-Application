@@ -6,4 +6,5 @@
 ![image desc](./img/output2.png)
 ## Features:
 *Displays current temperature, weather conditions, and forecast.*
+
 *Search functionality for any city around the world.*
